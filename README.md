@@ -16,6 +16,6 @@
 
 ## 📈 &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wcocuzza&&count_private=true&show_icons=true&theme=midnight-purple"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcocuzza&&count_private=true&layout=compact&theme=midnight-purple"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wcocuzza&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcocuzza&langs_count=10&count_private=true&layout=compact&theme=midnight-purple"/>
 </p>

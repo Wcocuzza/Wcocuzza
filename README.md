@@ -15,8 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
-<div align="center">
-  <a href="https://github.com/wcocuzza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wcocuzza&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcocuzza&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wcocuzza&show_icons=true&theme=midnight-purple" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcocuzza&layout=compact&theme=midnight-purple" alt="maykbrito's most languages"/>
+</p>

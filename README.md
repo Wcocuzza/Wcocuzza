@@ -16,6 +16,6 @@
 
 ## 📈 &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wcocuzza&&count_private=true&show_icons=true&theme=midnight-purple" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcocuzza&&count_private=true&layout=compact&theme=midnight-purple" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wcocuzza&&count_private=true&show_icons=true&theme=midnight-purple"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wcocuzza&&count_private=true&layout=compact&theme=midnight-purple"/>
 </p>

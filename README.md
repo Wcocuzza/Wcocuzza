@@ -1,4 +1,5 @@
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> meu nome é Wallace</h1>
+<h1 align="left">Olá, meu nome é Wallace</h1>
+<p>Sou um eterno estudande de tecnologia e apaixonado em resolver problemas</p>
 
 
 ## 💻 &nbsp; Estou estudando:

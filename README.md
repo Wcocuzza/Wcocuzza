@@ -1,5 +1,5 @@
 <h3 align="left">Olá, meu nome é Wallace</h3>
-<p>Sou um eterno estudande de tecnologia e apaixonado em resolver problemas</p>
+<p>Sou um eterno estudante de tecnologia e apaixonado em resolver problemas</p>
 
 
  <h4> 💻 &nbsp; Estou estudando:<h4>
